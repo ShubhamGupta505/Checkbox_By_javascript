@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    text-align: center;
+}
+.margin {
+    margin-top: 30px;
+}
+
+.marginTop {
+    margin-top: 160px;
+}
